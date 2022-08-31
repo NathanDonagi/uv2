@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "node": "16.0.0",
     "@tomphttp/bare-server-node": "^1.0.2-beta-readme2",
     "bare-server-node": "tomphttp/bare-server-node",
     "node-static": "^0.7.11"
